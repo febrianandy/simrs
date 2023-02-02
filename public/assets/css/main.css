@@ -1,0 +1,31 @@
+.sidebar{
+  background-color: black !important;
+}
+.sidebar .nav-item{
+  display: flex;
+  align-items: center;
+ 
+}
+.sidebar .nav-item a,.sidebar .nav-item span,.sidebar .nav-item i{
+  color: white !important;
+}
+.sidebar .nav-item:hover{
+  background-color: #E74A3B;
+  
+}
+.sidebar .nav-link i{
+  font-size: 28px !important;
+}
+
+.navbar,.sidebar-brand{
+  background-color: #E74A3B !important;
+  color: white !important;
+}
+.navbar span{
+  color: white !important;
+}
+
+.table-data-pasien{
+  background-color: #E74A3B !important;
+  color: white;
+}
